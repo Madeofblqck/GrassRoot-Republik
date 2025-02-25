@@ -8,7 +8,7 @@ Welcome to **GrassRoot Republik** – A cutting-edge urban apparel brand! 👕�
 ✅ Affordable prices  
 
 ## 🚀 How to Access the Website?
-👉 [Click Here to Visit GrassRoot Republik](https://Madeofblqck.github.io/GrassRootRepublik/)
+👉 [Click Here to Visit GrassRoot Republik][(https://Madeofblqck.github.io/GrassRootRepublik/)](https://sage-tartufo-5e4ed3.netlify.app/)
 
 
 ## 📞 Contact Us
